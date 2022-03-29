@@ -1,3 +1,5 @@
 Tämä on ensimmäinen tiedosto.
 
 Tämä on uusi rivi.
+
+Tämä rivi on kirjoitettu VSC:llä.
